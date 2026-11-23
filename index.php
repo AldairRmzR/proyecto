@@ -8,5 +8,11 @@ echo "<h1> hola! php</h1>";
 
 $curentDate = date("Y-m-d H:i:s");
 
+// tipos de variables
+    Sstring = "Palabra";
+    $int =12345;
+    $ float = 2.5416;
+    $bool = true;
+
 echo "<p> $curentDate </p>"
 ?>
